@@ -28,4 +28,9 @@ python main.py
 
 ## Part of a series
 
-This is the first piece of a self-directed trading systems build — a matching engine, backtester, and statistical arbitrage strategy follow, each building on what this one produces. Links added here as they're completed.
+This is the first piece of a self-directed trading systems build:
+
+1. [binance-data-pipeline](https://github.com/asharhaider-stream/binance-data-pipeline.git) — done
+2. [order-book-matching-engine](https://github.com/asharhaider-stream/order-book-matching-engine.git) — done
+3. [Backtester](link-to-repo-3) — in progress
+4. [Statistical arbitrage strategy](link-to-repo-4) — planned
